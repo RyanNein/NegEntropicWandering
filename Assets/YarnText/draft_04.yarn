@@ -1,0 +1,580 @@
+
+
+
+
+
+title: Start
+position: -207,-238
+---
+<<declare $player_name to "Player">>
+<<jump NameEntry>>
+===
+
+
+title: NameEntry
+position: -207,-238
+---
+<<scene NameEntry>>
+<<wait 2>>
+
+<<select_field NameInput>>
+<<activate "Continue Button" false>>
+Input your name.
+
+<<jump Introduction>>
+===
+
+
+
+title: Introduction
+position: -209,-85
+---
+<<scene Home>>
+<<save "Introduction">>
+<<wait 2>>
+I can’t sleep.
+I haven’t for a long time.
+This used to be my favorite time, lying in bed before falling asleep.
+A time of timelessness, nestled in between the overwhelming something of day and the peaceful nothing of night. Going to bed is the ceremonious end to troubles that gives meditative release for a short while.
+In that moment, life’s turbulence is put to a halt by the officiating decision to end the day.
+All that’s left is to surrender oneself to the night and feel the soft, dark drifting.
+But recently drifting has felt adrift as I’ve struggled to sleep for whole nights, and that timelessness has become a petite death. 
+
+
+At this age life has started to feel like a burden and the only thing that breaks me out of the cycle of daily working is the variable of how long waking consciousness persists through the night.
+I once eagerly awaited sleep with a sense of wonder about what dreams would find me and how they would illuminate my empty, sleeping mind.
+But I’ve been disillusioned even to the nature of night and day. The magic of time is just the ordinary cycling of the earth and the moon around one star we call the sun.
+Cycling and cycling but going nowhere. The lightness and darkness fade into each other sustaining the indiscriminate suchness we call life.
+When night is day, tomorrow’s today stays tomorrow’s.
+Night and day no longer mean anything to my restless body, I’ve lost all sense of time.
+So much restlessness has placed my waking consciousness somewhere in limbo between day and night and I forget which is which. All I know is I need to sleep.
+	-> Just close your eyes
+	-> Count sheep
+	-> Tuck yourself in tighter
+Oh great, this is the point where I start talking to myself.
+My mind is fractured in two, the waking and sleeping selves are talking to each other.
+	-> Should you see a doctor about that?
+	-> Have you tried sleeping more?
+Ugh, my other consciousness is useless . . .
+Do you think I haven’t tried the obvious stuff already? I’ve been laying here alone every night trying to everything to sleep.
+Got any other advice?
+	-> Go outside
+	<<jump Wandering>>
+===
+
+
+
+
+
+
+title: Wandering
+position: -199,65
+---
+<<scene Outside>>
+<<save "Wandering">>
+<<wait 2>>
+Go outside? You’re right.
+Like a scale tipping over, at the very edge of desperation comes acceptance and that’s what I’ve reached. I should stop forcing myself to sleep.
+I get out of bed and start walking around under the night sky, aimlessly in search of a nothingness that I once had.
+In search of something or someone that can tame the mind and put me to sleep.
+
+Well, I’m outside, but what do I do now?
+-> Something
+	Searching for something.
+	There are already too many somethings in my mind, but I guess expelling energy on anything should bring me closer to sleep.
+-> Nothing
+	I’m already trying to do nothing by sleeping.
+	Perhaps if I do enough nothing it’ll accumulate into sleep.
+
+Something to put me to sleep or the nothingness of sleep, which to search for . . .
+
+When I was younger and life was simpler, sleeping was easy. The emptiness of my restful head was a playground for awe.
+I used to look up to the stars at night and imagine galaxies full of alien civilizations enacting a cosmic drama just beyond my reach.
+I remember when I heard Plato say that everyone is assigned a star to guide us through our time on earth and that when we die, we will return to our companion star.
+What it would be like to still believe in such things.
+The world now is so full of explanations that only the empty mind of a child has space for belief.
+As life grows in understanding it shrinks in significance. My troubles are meaningless to the universe were I am less than a spec, but they’re all I have.
+Nothingness is comforting. Nothing used to be so easy.
+That playground of nothingness became a minefield of somethings as I grew up and everything got heavier. 
+There is no more room in my mind for nothing.
+Even the question of what to do tomorrow and the reflection of what I did today keeps me up and unready for the paths ahead. 
+Each path is an endless dead-end I find myself halfway down in both directions.
+And even aimlessly walking at night, I don’t know where to go . . .
+
+I probably shouldn’t embrace talking to myself but screw it, I’ll let my subconscious decide for me.
+Where should I go?
+	-> Forest
+	<<jump Forest>>
+===
+
+
+
+
+
+
+
+title: Forest
+position: -204,233
+---
+<<scene Forest>>
+<<save "Forest">>
+<<wait 2>>
+Following the directions of my subconscious I stumble my way into a forest. The hiker’s path my tired feet create is guided by the night’s starlight trickling through the trees.
+In the distance I see a light . . .
+A FIRE!
+I quickly approach the sight to find an abandoned camp site and a single bush ablaze.
+Now fully alert, I frantically look around for anything to help the situation.
+
+<<activate "Fire" true>>
+Fire: No need to panic.
+{$player_name}: But you’ll spread and burn the whole forest down!
+Fire: Calm down now, there is no need to panic. Tell me what is wrong.
+{$player_name}: What’s wrong!? I don’t know which is worse, that there’s a forest fire or that I’m talking to it. I’m talking to an inanimate object! 
+Fire: Inanimate?
+Fire: Look at the way my body dances with animation and enlightens my surroundings. 
+Fire: I exhaust smoke because I breath in life with great depth.
+Fire: Leave the danger to me, now tell me what is really bothering you.
+
+
+{$player_name}: I’m stressed, and I can’t sleep. I’m wandering around aimlessly.
+Fire: One cannot wander without direction. Lay down on that blanket there and allow me your ear.
+I do as they say and lay down on the abandoned blanket left behind by the campers.
+
+Fire: Foolish campers ignited my life and fled in panic. 
+Fire: They left in fear of their own creation.
+
+Fire: I was born knowing my purpose.
+Fire: As a campfire I used my strength to roast weenies with pride and now look how my creators left me, alone and without a purpose.
+Fire: Fire lives a short life, and now mine will be without the warmth of a creator.
+Fire: But I don’t allow this to perturb me.
+Fire: I don’t fall into aimlessness.
+Fire: I don’t retaliate in anger, bolstering myself and spread into a forest fire.
+Fire: Instead I use my willpower to contain myself and take pleasure in the impossible struggle to find stillness as a burning flame.
+
+As I relax into the fire’s words, I take in the fading warmth of the fire and inhale the growing body of smoke encapsulating my place on the blanket.
+The blanket I lay on vibrates and starts to rise to meet the fiery air.
+
+Fire: I will die soon.
+Fire: I wanted something different, but I accept the life I was given. This is my path, and I must take it without worry of other possibilities.
+Fire: As I prepare for this eternal slumber, I focus and feel myself heavy with purpose.
+Fire:  Even if your purpose is as simple as just living, it is worthwhile if done with strength and vitality.
+
+Somehow the weight of the fire’s words makes me feel lighter than ever.
+Lifted by the hands of smoke, my blanket is now like a magic carpet, and I let its ascension take me.
+Fire: Ride my smoke and embrace the path it takes you down. It will give answers to your problems.
+Fire: Think not of days and nights, somethings and nothings, and confront your future with a purpose.
+	-> Ride the smoke up
+<<jump Clouds>>
+===
+
+
+
+
+
+
+
+title: Clouds
+position: -204,392
+---
+<<scene Clouds>>
+<<save "Clouds">>
+<<wait 2>>
+
+Floating along the smoke clouds, I thank the fire for the conversation and head upward along the path he has bequeathed me.
+On my magic carpet I glide along the ascending puffs of my new friend’s trail of smoke. The features of the earth become small, and I feel a weight lifted off my shoulders. 
+With my newfound appreciation the fire has given me, I feel closer to being at peace and finally getting some sleep. 
+
+Though not yet asleep, tonight’s carefree wandering has taken me to a dreamy state among the clouds far above the bustle of the earthly ground below.
+A domain of soft, white masses glowing from the moon and stars surrounding me.
+But before I can close my eyes, I reach above the realm of clouds, and I find something peculiar.
+
+<<activate "CloudMan" true>>
+<<camera_shake 1 0.1>>
+Cloud Man: AAAAW!
+Atop one of the clouds there lies a man frantically grasping onto the ephemeral surface of the cloud he rests on and gazing, eyes wide, down below.
+{$player_name}: What’s wrong?
+Cloud Man: Don’t look Down!
+I glance below to see the top-down view of the world with all activity shrunken down as if to the size of ants. The dangerous perspective is overwhelming.
+Heeding the lessons I’ve learned today, I avoid the temptation of panic and try to quell the man’s fear.
+
+{$player_name}: If you are scared of heights then why did you come up here?
+Cloud Man: All my life I wanted freedom and I searched for it anywhere I could.
+Cloud Man: I accumulated freedom in removing myself from the tribulations of social, familial, and work life.
+Cloud Man: Despite my efforts, my life remained empty, and my work felt fruitless.
+ Cloud Man: Eventually my longing for freedom turned towards physicality.
+Cloud Man: I realized the fundamental constraint on my life was gravity itself.
+Cloud Man: So the purpose of my life became to work to overcome it, and here I am now.
+Cloud Man: I realize now that I can’t handle this degree of freedom.
+
+I consider the boundless freedom of the empty, sleepless mind I long for most nights.
+The freedom of emptiness is a struggle that led me to this situation.
+
+{$player_name}: Everybody thinks they need freedom but too much freedom is dangerous. 
+Cloud Man: But gravity is why I’m scared now. Gravity is what’s dangerous!
+{$player_name}: I’ve struggled just to sleep thinking about the freedom of choice and the cascading consequences of action.
+{$player_name}: Knowing the burden of too much freedom, I would never give up gravity. Gravity is what grounds us, it gives us security.
+{$player_name}: The constraint of gravity is a constant in a chaotic world. Any constant is worth appreciating because it allows us to have perspective.
+I’m trying to alleviate the man’s troubles, but I feel as though my words are directed at myself as well.
+
+I can see the man’s state calm down.
+Cloud Man: I think I get it now, but what do I do about being stuck up here?
+{$player_name}: Just relax, take the weight off your shoulders, and allow gravity to take it from you.
+With a playful leap I hop off my blanket as the ascending smoke below starts to dissipate and board a cloud I spotted arising bedside me.
+Cloud Man: Aren’t you coming down with me?
+I think of my fiery friend who ignited a newfound purpose in me. I still don’t know what I’m searching for, but I’m no longer wandering carelessly.
+He must have flickered out by now.
+{$player_name}: I won’t be going under with you. The stars are calling me tonight like they haven’t since childhood.
+{$player_name}: I am looking for sleep and gravity will not help me find it.
+	-> Continue floating higher
+	<<jump Scientist>>
+===
+
+
+
+
+
+
+
+title: Scientist
+position: -202,558
+---
+<<scene SpaceShip>>
+<<save "Scientist">>
+<<wait 2>>
+
+My ride takes me beyond the clouds and into the realm of the stars. I leave behind everything and everyone and meet the silence of space.
+My white chariot has taken me so far, but it slowly dissipated and left me alone out in the beyond.
+I can feel the freedom.
+Floating around, I search amongst the nothingness to find a space station off in the distance.
+I paddle my way through what’s left of the atmosphere to approach it.
+I station myself in front of the ship’s port window and am confronted by the frustrated face of a man dawning a lab coat surrounded by scientific utensils and contraptions.
+
+
+<<activate "SpaceShip" true>>
+Scientist: Out of the way!
+Scientist: You’re blocking the view!
+I reposition myself to allow the scientist a better view of the earth behind me.
+
+Scientist: Wait for it . . .
+Scientist: . . .
+{$player_name}: Um, how am I breathing in space?
+Scientist: I have no time to explain elementary science to you!
+Scientist: Such explanations are petty details compared to the serious science I am conducting.
+With the night I’ve been having I’m growing accustomed to disregarding conventional logic.
+
+Scientist: Any second now . . . 
+Scientist: . . .
+{$player_name}: I don’t think anything is going to happen. What are we waiting for exactly?
+Scientist: For the world to end!
+Such an answer is startling, but I relax myself and don’t panic.
+I think of the friend I just left behind and how he concerned his fears. And without gravity I feel emptied of some of my wakefulness and my fear along with it.
+{$player_name}: Why are you trying to end the world?
+Scientist: Don’t think of why, but only how?
+Scientist: I’ve dedicated my life to a singular goal. A scientific goal that will cement my name in the history of science above Einstein, above even Newton.
+Scientist: With this experiment I will invent negative zero!
+Scientist: Nothing seems to be happening though, the experiment is a failure for now.
+Scientist: I thought I figured out the key to Inverse Floating Point Objectivity Theory, but the concept needs more work.
+
+{$player_name}: So what would happen if the experiment worked and you did create negative zero?
+Scientist: What would happen? I don’t know exactly yet, I just have to see what happens.
+Scientist: My hypothesis is that all the fabric of space and time will converge, causing a singularity that ends the universe as we know it.
+{$player_name}: And that’s a good thing?
+Scientist: A good thing?
+Scientist: Does it matter?
+Scientist: Do I look like I practice applied sciences. This is pure science for science’s sake.
+Scientist: My goal has always to been to discover something new for science, for the human race!
+Scientist: Pure science is beautiful, it allows us to understand the world. Through science we, the universe itself, can learn to know itself.
+Scientist: Science should not be constrained by questions of ethics or whys. It exists to answer those very questions!
+Scientist: Science validates its own existence through its relation to the real world. There is nothing more important than science!
+Scientist: My work will answer the fundamental questions of life, everything will be understood. So why does it matter if my experiment ends the world. The world will be over when all questions are answered.
+
+{$player_name}: I hadn’t considered all that. Maybe you should invent negative zero after all.
+{$player_name}: I’m rooting for you.
+
+Scientist: I don’t need your rooting. I need to return to the lab.
+Scientist: Now be gone!
+The scientist presses a button on his control panel activating window wipers that cast me off the port hole and back into the depths of space.
+	-> Float on through space
+	<<jump SplitLoneliness>>
+
+===
+
+
+
+
+
+
+
+
+title: SplitLoneliness
+position: -181,750
+---
+<<scene SplitLoneliness>>
+<<save "SplitLoneliness">>
+<<wait 2>>
+
+Officially removed from anything resembling the gravity of earth, I now drift about aimlessly through the void of space.
+Amongst the nothingness of space I can feel my eyes grow more tired and ready for sleep.
+But I haven’t found anything on my journey. It seems I am back where I started yet I feel I’ve gained insight.
+I think back to the scientist and his quest to understand the world at all costs.
+The unanswered questions of life keep me up at night, but I’ve long since given up on trying to be the one to answer them.
+The scientist probably has many restless nights trying to answer such questions. That doesn’t help me with sleep.
+Perhaps the simple task of sleep is of greater importance than grand questions. I found that a empty mind is more conducive to an easy life of sleep.
+Nonetheless, the emptiness of space is starting to get to me.
+
+Off in the distance I finally see something.
+I paddle towards it.
+What little atmosphere exists around me pushes me toward my destination.
+I keep moving closer to get a better look.
+
+
+<<activate "BodyBottom" true>>
+I think I see another person. Something looks strange though.
+I move closer to complete my view.
+
+<<activate "BodyTop" true>>
+Fully in view, the man appears to be completely split in two at the waist.
+
+Lonely Guy: A person!
+Lonely Guy: Come closer! I’ve waited so long for this. You can’t imagine the loneliness I’ve felt.
+
+{$player_name}: Are you okay!?
+
+Lonely Guy: Do I look okay?
+Lonely Guy: I’ve been out here for years.
+Lonely Guy: I tried to live my life for myself. To cut all dependencies and live a stoic life of independence.
+Lonely Guy: I wanted isolation so I found it. And now look where I am!
+
+Lonely Guy: But the human body is resilient, it adapts to its circumstances.
+Lonely Guy: Reacting to my loneliness, like a cell dividing my body split in two to give me company.
+Lonely Guy: The sick joke is that I was split horizontally not vertically!
+Lonely Guy: How is a pair of legs going to help me.
+Lonely Guy: But I do admit, in my more desperate nights, the presence of the legs provides a comforting partnership.
+
+{$player_name}: What about your family? You left them behind?
+Lonely Guy: I left my family a long time ago in search of independence.
+Lonely Guy: I thought that was just a part of growing up.
+Lonely Guy: I got my own job, my own home, my own life.
+Lonely Guy: I left everything I thought was holding me back behind and that lead me to the depths of space. There is no turning back now.
+
+{$player_name}: They say life always finds a way.
+{$player_name}: Maybe you’ll get lucky and split again. This time down the middle.
+
+Lonely Guy: A man once said, “hell is other people”.
+Lonely Guy: I have learned that he is wrong. Hell is just the self.
+Lonely Guy: You can never be truly alone because the mind itself is a plurality.
+Lonely Guy: In trying to live without others I tried to live without myself!
+Lonely Guy: But that can’t be done. The struggle is not to live with others, it is to live with yourself.
+Lonely Guy: All alone out here, I am my own other. I talk to myself by thinking and I’ve grown weary of myself as a partner.
+{$player_name}: Of course you can’t escape yourself, haven’t you considered that time before falling asleep?
+{$player_name}: When the mind is restless it talks to no other but itself. That turbulence of the mind is something to be overcome not by running away but by confronting it mentally.
+{$player_name}: I’ve been struggling to sleep precisely because of that other inside of me that just keeps talking.
+{$player_name}: To become self-sufficient means taming the other inside of you and becoming a whole person. That is done by emptying the mind, not escaping the earth.
+Lonely Guy: You are just like all the others. You are no help! I don’t need you!
+Lonely Guy: Its better to be lonely than to be lectured by others.
+Lonely Guy: Leave me to myself, you are not wanted here!
+There is no point in arguing so I should just leave him be and carry on with my journey.
+	-> Float on
+	<<jump BlackHole>>
+===
+
+
+
+
+
+
+title: BlackHole
+position: -182,944
+---
+<<scene BlackHole>>
+<<save "BlackHole">>
+<<wait 2>>
+
+I continue my journey through the vast void of space.
+The emptiness of my surroundings gives me time to reflect on my troubles and how small they now seem. The friends I’ve met along the way have given me perspective.
+I think of the lonely man and his struggle to overcome himself by isolation.
+There have been times in my life where I wanted to be independent, but that only gave rise to more trouble.
+Having to pay for rent and food and keep a job gave me independence but also gave me a heavy load to bear.
+Perhaps only in the depths of space can one truly be independent.
+I’m starting to feel like I’ll be able to sleep pretty soon. If only I can find my way back home.
+
+All of a sudden, I realize that I am moving a lot faster than before.
+I look around to spot in the distance a massive dark entity.
+
+
+<<activate "Mouth" true>>
+<<activate "Eyes" true>>
+Black Hole: Nom, nom, nom, nom.
+The black hole I have found myself in the path of is sucking in asteroids and space debris gleefully and messily, secreting mouth noises with every bite.
+
+I think fast and hope that maybe I can bargain with it.
+{$player_name}: Hello. Hello Mr. Black Hole.
+Black Hole: Meat! Nom, nom, nom, nom.
+The cavernous being smacks its lips and begins sucking with greater force.
+My movement steadily grows in speed and my space paddling is rendered mute. I drift closer and closer towards the black hole.
+
+{$player_name}: I really don’t think I am that tasty Mr. Black Hole. 
+Black Hole: Finally, I’ve traveled for light years without any meat.
+{$player_name}: I am tiny compared to your great mouth and you will barely taste me. Is a crumb worth my life?
+Black Hole: I’ve been searching for space debris and eating all that I can in hopes of finding something like you. Meat.
+{$player_name}: Is a spec of meat worth taking my life?
+Black Hole: You may be meat but you are ultimately just another spec of matter. How could your life have more meaning than that?
+Black Hole: Life arises from dead matter and so it shall return to dead matter.
+Black Hole: This is the cosmic game of life and death and I am only playing my part.
+{$player_name}: But I’m not just an insignificant piece of matter, I have a family and a life, and that gives me purpose and meaning. You would take that away from me?
+Black Hole: If not by my hands you and your family will die eventually. On a cosmic level you only exist for less than a blink of an eye.
+Black Hole: The universe and all the matter in it will die a cold death one day and all of your precious meaning will die with it. I only accelerate that process.
+Black Hole: You are a breadcrumb and the trail of humanity behind your journey through space will lead me to a planet full of beings like you.
+Black Hole: Your presence means I’m close to the source. I will have my feast.
+
+My bargaining is hopeless and its already too late.
+As I enter the all-consuming mouth of the beast, I feel my body warping and my will decaying.
+There is no hope left for me and all I can think of is that I am finally tired but this is not the sleep I wanted.
+I close my eyes and prepare for my dark fate.
+	-> Get eaten
+	<<jump TangentSpace>>
+
+===
+
+
+
+
+
+
+
+title: TangentSpace
+position: -173,1152
+---
+<<scene TangentSpace>>
+<<save "TangentSpace">>
+<<wait 2>>
+
+To my astonishment I awaken from the darkness to find myself in a strange place.
+I may have escaped death but I’m tired and can feel my consciousness fading.
+I’m more than ready to sleep but how can I now?
+This night has gotten the best of me.
+What more can it bring me.
+
+My sense of space is lost, and time stands still.
+What matter I manage to take in is indescribable masses of red, green, and blue.
+The area pulses with energy along wrinkled topology as if witnessing a giant consciousness.
+
+I look around for anything that might be able to talk.
+
+<<activate "TangentOrb" true>>
+
+I find a giant orb with a glowing red eye. I approach it, maybe I can talk to it.
+{$player_name}: Where am I?
+Orb: You’ve entered a realm of tangential space existing beyond dimensionality.
+{$player_name}: What does that mean?
+Orb: Dimensionality itself is an illusion caused by the consciousness’s need to objectify the world to make sense of it.
+Orb: Each dimension is an axis that expands infinitely and dimensions compound with each other to form infinite infinities.
+Orb: This is but one aspect of the universe perceiving itself. Tangent space is beyond merely human comprehension.
+{$player_name}: Am I dead? Is this the afterlife? Are you God?
+Orb: Such questions are meaningless here.
+Orb: You arrived here by entering a black hole and traversing the realm between worlds.
+{$player_name}: Worlds? There are multiple worlds?
+Orb: The word multiple is without meaning. There are simply as many worlds as there are.
+Orb: What can exist does exist. If not in your world than in another.
+Orb: The universe permutates all possibilities of all worlds at once.
+Orb: This realm is the only constant, it holds together all possibilities. It is the domain of negative zero.
+
+{$player_name}: If this is what holds the worlds together then what makes this place work?
+Orb: Such a question is like asking why there is something rather than nothing. There is no nothing, only that which is, and that is all.
+Orb: Your entering here was predetermined. This is your path and you must accept it.
+
+His answer makes me recall my original problem of a head full of somethings and nothings.
+{$player_name}: Orb, I got here because I wanted to sleep. 
+{$player_name}: I was just trying to wander around and empty my head enough to sleep, but I’ve had a crazy night and I don’t know if my troubles have been helped.
+Orb: Your troubles are of no significance.
+Orb: This is the place where all questions are answered.
+Orb: Here you can peer into dimensions and see all that there is to see.
+Orb: But no amount of answers will help you sleep. The realm is beyond humans because if all answers were found there would be nothing left to wonder about.
+Orb: The unknown sustains life and fuels dreams. Without questions, sleep would be dreamless and life would be complete.
+Orb: Only as a whole is the universe complete and its parts are necessarily incomplete.
+Orb: Your own incompleteness contributes to the whole. Incompleteness allows for change, it is the source of will.
+Orb: Have assurance that everything is in its right place. It could not be otherwise.
+
+{$player_name}: But how does this help me to sleep?
+Orb: You can’t sleep because you are still trying to understand.
+Orb: Your mind is restless because it is full of categories.
+Orb: All of the knowledge and memories your have accumulated only clog the mind. They serve to comprehend your life but not the true nature of the universe.
+Orb: True reality is formless and empty. To sleep you must let go of your understanding and become one with the universe in its formlessness.
+Orb: You are troubled because you do not know what path lies ahead of you in life.
+Orb: Every world fulfills its essence intrinsic to the course of the cosmos. There is a you for every path in life happening all at once. There is nothing to be worried about.
+
+{$player_name}: Does that mean right now there is a me still in my bed at home?
+Orb: Yes, there is a you for every possibility.
+{$player_name}: How do I get there?
+Orb: You already are there, you just have to realize it.
+Orb: I have seen this very event before and will see it again.
+Orb: To return, all you have to do is empty your mind and fall asleep.
+
+Just fall asleep. Just fall asleep.
+Its simple and I am ready.
+I think of the fire that filled me with purpose. I followed the path he gave me and now I see that it was my destiny.
+It could not have been any other way and knowing that empties my mind.
+I think of the cloud man and his decent back to gravity.
+The weight of freedom is liberating and it empties my mind.
+I think of the scientist and his pursuit of the knowledge I now have glimpsed.
+The erectable edifice of goals gives me reason to wake up anew and it empties my mind.
+I think of the lonely man split in two still alone somewhere adrift in space.
+I’ve learned to make friends with the depths of my consciousness and that empties my mind.
+I think of the black hole and its search for food amongst the floating debris of space.
+I may be a spec of matter, but now I’m engaging in a cosmic dance and that empties my mind.
+I think until I can think no more.
+I feel my mind fading away and I welcome its drifting into any path it may take me. Even into the formless depths of nothingness I let it carry me away.
+My eyes are closed.
+My body is restful.
+My mind is empty.
+	-> Sleep
+	<<jump Ending>>
+
+===
+
+
+
+
+
+
+
+
+
+
+
+title: Ending
+position: -168,1341
+---
+<<scene Home>>
+<<save "Ending">>
+<<wait 2>>
+
+My eyes stay behind the dark veil of my resting eyes but I can feel the world around me change.
+I can feel a blanket caress me and I pull it up to my neck.
+I can feel my body sink into the mattress below me.
+
+Gravity is keeping me safe with its negentropic force.
+The world isn’t ending in a singularity and the dimensions of time and space I’m used to are intact.
+My mind is as whole as my body.
+
+What does my consciousness have left to say?
+	-> Nothing
+	-> Nothing
+There is nothing left to think about. My troubles dissolve into the night and my head is as empty as it should be.
+
+I can feel all the infinite paths the many tomorrows will bring align onto one path that I’ll call my life.
+I’m content with life because I feel purpose in living.
+Instead of chaos I feel unity.
+I feel loved by the universe.
+I drift into a state of sleep and let tomorrow become today.
+
+<<clear_save>>
+<<jump Return>>
+===
+
+
+title: Return
+position: -168,1341
+---
+<<scene MainMenu>>
+===

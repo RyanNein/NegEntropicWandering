@@ -1,0 +1,638 @@
+title: Start
+position: -248,-818
+---
+<<jump Introduction>>
+===
+
+
+
+
+title: Introduction
+position: -250,-665
+---
+<<scene Home>>
+<<wait 2>>
+I can’t sleep.
+I haven’t for a long time.
+This used to be my favorite time, lying in bed before falling asleep.
+A time of timelessness, nestled in between the overwhelming something of day and the peaceful death of sleep. Going to bed is the ceremonious end to troubles that gives meditative release for a short while.
+All that’s left is to surrender oneself to the night and feel the soft, dark drifting.
+But recently drifting has felt adrift as I’ve struggled to sleep for such long times, and the timelessness has become a petite death. 
+
+When night is day, tomorrow’s today stays tomorrow’s.
+Night and day no longer mean anything to my restless body, I’ve lost all sense of time.
+So much restlessness has placed my waking consciousness somewhere in limbo between day and night and I forget which is which. All I know is I need to sleep.
+	-> Just close your eyes
+	-> Count sheep
+	-> Tuck yourself in tighter
+Oh great, this is the point where I start talking to myself.
+My mind is fractured in two, the waking and sleeping selves are talking to each other.
+	-> Should you see a doctor about that?
+	-> Have you tried sleeping more?
+Ugh, my other consciousness is useless…
+Do you think I haven’t tried the obvious stuff already? I’ve been laying here alone every night trying to everything to sleep.
+Got any other advice?
+	-> Go outside
+	<<jump Wondering>>
+===
+
+
+
+
+
+
+title: Wondering
+position: -223,-345
+---
+<<scene Outside>>
+<<wait 2>>
+Go outside? You’re right.
+Like a scale tipping over, at the very edge of desperation comes acceptance and that’s what I’ve reached. I should stop forcing myself to sleep.
+I go outside, but what do I do then?
+	-> Something
+	Searching for something 
+	-> Nothing
+	Nothing 
+Something to put me to sleep or the nothingness of sleep, which to search for…
+
+I get out of bed and walk around at night, aimlessly in search of a nothingness that I once had. Something or someone that can tame the mind and put me to sleep.
+The therapy of nothingness became a minefield of somethings as I grew up and everything got heavier. The question of what to do tomorrow and the reflection of what I did today keeps me up and unready for the paths ahead. 
+Each path is an endless dead-end I find myself halfway down in both directions.
+And even aimlessly walking at night, I don’t know where to go…
+* More about life struggles
+I probably shouldn’t embrace talking to myself but screw it, I’ll let my subconscious decide for me.
+Where should I go?
+	-> Forest
+	<<jump Forest>>
+===
+
+
+
+
+
+
+
+title: Forest
+position: -221,-59
+---
+<<scene Forest>>
+<<wait 2>>
+Following the directions of my subconscious I stumble my way into a forest. The hiker’s path my tired feet create is guided by the night’s starlight trickling through the trees.
+In the distance I see a light…
+A FIRE!
+I quickly approach the sight to find an abandoned camp site and a single tree ablaze.
+Now fully alert, I frantically look around for anything to help.
+
+<<activate “Fire” true>>
+Fire: No need to panic.
+Player: But you’ll spread and burn the whole forest down!
+Fire: Calm down now, there is no need to panic Tell me what is wrong.
+Player: what’s wrong!? I don’t know which is worse, that there’s a forest fire or that I’m talking to an inanimate object. 
+Fire: Inanimate?
+Fire: Look at the way my body dances with animation and enlightens my surroundings. 
+Fire: I exhaust smoke because I breath in life with great depth.
+Fire: Leave the danger to me, now tell me what is really bothering you.
+
+Player: I’m stressed and I can’t sleep. I’m wondering around aimlessly.
+Fire: One cannot wonder without direction. lay down on that blanket there and allow me your ear.
+I do as they say and lay down on the abandoned blanket left behind by the campers.
+
+Fire: Foolish campers ignited my life and fled in panic. 
+Fire: They left in fear of their own creation.
+
+Fire: I was born knowing my purpose.
+Fire: As a campfire I used my strength to roast weenies with pride and now look how my creators left me, alone and without a purpose.
+Fire: Fire lives a short life, and now mine will be without the warmth of a creator.
+Fire: But I don’t allow this to perturb me.
+Fire: I don’t fall into aimlessness.
+Fire: I don’t retaliate in anger, bolstering myself and spread into a forest fire.
+Fire: Instead I use my willpower to contain myself and take pleasure in the impossible struggle to find stillness as a burning flame.
+
+As I relax into the fire’s words, I take in the fading warmth of the fire and inhale the growing body of smoke encapsulating my place on the blanket.
+The blanket I lay on vibrates and start rise to meet the fiery air.
+
+Fire: I will die soon.
+Fire: I wanted something different, but I accept the life I was given. This is my path and I must take it without worry of other possibilities.
+Fire: As I prepare for this eternal slumber, I focus and feel myself heavy with purpose.
+Fire:  Even if your purpose is as simple as just living, it is worthwhile if done with strength.
+
+Somehow the weight of the fire’s words makes me feel lighter than ever.
+Lifted by the hands of smoke, my blanket is now like a magic carpet and I let its ascension take me.
+Fire: Ride my smoke and embrace the path it takes you down.
+Fire: Think not of days and nights, somethings and nothings, and confront your future with purpose.
+	-> Ride smoke up
+<<jump Clouds>>
+===
+
+
+
+
+
+
+
+title: Clouds
+position: -204,275
+---
+<<scene Clouds>>
+<<wait 2>>
+Floating along the smoke clouds, I thank the fire for the conversation and head upward along the path he has bequeathed me.
+On my magic carpet I glide along the ascending puffs of my new friend’s trail of smoke. The features of the earth become small and I feel a weight lifted off my shoulders. 
+With my newfound appreciation the Fire has given me, I feel closer to being at peace and finally getting some sleep. 
+
+Though not yet asleep, tonight’s carefree wondering has taken me to a dreamy state among the clouds far above the bustle of the earthly ground below.
+A domain of soft, white masses glowing from the moon and stars surround me.
+But before I can close my eyes, I reach above the realm of clouds and I find something peculiar.
+
+* Cloud Boy enters
+<<camera_shake 1 0.1>>
+Cloud Boy: AAAAW!
+Atop one of the clouds there lies a boy frantically grasping onto the ephemeral surface of the cloud he rests on and gazing down below.
+Player: What’s wrong?
+Cloud Boy: Don’t look Down!
+I glance below to see the top-down view of the world with all activity shrunken down as if to the size of ants. The dangerous perspective is overwhelming.
+Heeding the lessons I’ve learned today, I avoid the temptation of panic and try to quell the boy’s fear.
+
+Player: If you are scared of heights then why did you come up here?
+Cloud Boy: All my life I wanted freedom and I searched for it anywhere I could.
+Cloud Boy: I accumulated freedom in removing myself from the tribulations of social, familial, and work life.
+Cloud Boy: Despite my efforts, my life remained empty, and my work felt fruitless.
+ Cloud Boy: Eventually my longing for freedom turned towards physicality.
+Cloud Boy: I realized the fundamental constraint on my life was gravity itself.
+Cloud Boy: So the purpose of my life became to work to overcome it, and here I am now.
+Cloud Boy: I realize now that I can’t handle this degree of freedom.
+
+I consider the boundless freedom of the empty, sleepless mind I find most nights.
+The freedom of emptiness is a struggle that led me to this situation.
+
+Player: Everybody thinks they need freedom but too much freedom is dangerous. 
+Cloud Boy: But gravity is why I’m scared now. Gravity is what’s dangerous!
+Player: I’ve struggled just to sleep thinking about the freedom of choice and the cascading consequences of action.
+Player: Knowing the burden of too much freedom, I would never give up gravity. Gravity is what grounds us, it gives us security.
+Player: The constraint of gravity is a constant in a chaotic world. Any constant is worth appreciating because it allows us to have perspective.
+I’m trying to alleviate the boy’s troubles but I feel as though I am talking to myself as well.
+
+I can see the boy’s state calm down.
+Cloud Boy: I think I get it now, but what do I do about being stuck up here?
+Player: Just relax, take the weight off your shoulders, and allow gravity to take it from you.
+	-> Join on the cloud
+	<<jump CloudEndingA>>
+	-> Continue floating on the smoke
+	<<jump CloudEndingB>>
+===
+
+title: CloudEndingA
+position: -323,412
+---
+*jump on the cloud
+<<jump Particle>>
+
+===
+
+title: CloudEndingB
+position: -79,407
+---
+Continue floating on
+<<jump Scientist>>
+
+===
+
+
+
+
+
+
+
+title: Scientist
+position: 167,664
+---
+<<scene SpaceShip>>
+<<wait 2>>
+My ride takes me beyond the clouds and into the realm of the stars. I leave behind everything and everyone and meet the silence of space.
+Floating around, I search amongst the nothingness to find a space station off in the distance.
+I paddle my way through what’s left of the atmosphere to approach it.
+I station myself in front of the ship’s port window and am confronted by the frustrated face of a man in a lab coat surrounded by scientific utensils and devices.
+
+<<activate "SpaceShip" true>>
+Scientist: Out of the way!
+Scientist: You’re blocking the view!
+I reposition myself to allow the scientist a better view of the earth behind me.
+
+Scientist: Wait for it . . .
+Scientist: . . .
+Player: How am I in breathing in space?
+Scientist: I have no time to explain elementary science to you!
+Scientist: Such explanations are petty details compared to the serious science I am conducting.
+With the night I’ve been having I’m growing accustomed to disregarding conventional logic.
+
+Scientist: Any second now . . . 
+Scientist: . . .
+Player: I don’t think anything is going to happen. What are we waiting for exactly?
+Scientist: For the world to end!
+Such an answer is startling but I relax myself and don’t panic.
+
+Scientist: I’ve dedicated my life to a singular goal. A scientific goal that will cement my name in the history of science above Einstein, above even Newton.
+Scientist: With this experiment I will invent negative zero!
+Scientist: Nothing seems to be happening though, the experiment is a failure for now.
+Scientist: I thought I figured out the key to Inverse Floating Objectivity Theory, but the concept needs more work.
+
+Player: So what would happen if the experiment worked and you did create negative zero?
+Scientist: What would happen? I don’t know exactly yet, I just have to see what happens.
+Scientist: my hypothesis is that all the fabric of space and time will converge, causing a singularity that ends the universe as we know it.
+Player: And that’s a good thing?
+Scientist: A good thing?
+Scientist: Does it matter?
+Scientist: Do I look like I practice applied sciences. This is pure science for science’s sake.
+
+* science is beautiful speech 
+Scientist: Pure science is beautiful, it 
+Scientist: Science should not be constrained by 
+Science validates it’s own existence through its relation to the real world
+
+Player: I hadn’t considered all that. Maybe you should invent negative zero
+Player: I’m rooting for you.
+
+Scientist: I don’t need your rooting, I need to return to the lab.
+Scientist: Now be gone!
+The scientist presses a button on his control panel activating window wipers that cast me off the port hole and back into the depths of space.
+
+	-> Wipers
+	<<jump ScientistEndingA>>
+	-> Ray
+	<<jump ScientistEndingB>>
+
+===
+
+title: ScientistEndingA
+position: 285,822
+---
+Wipers send off into space.
+<<jump SplitLoneliness >>
+
+===
+
+title: ScientistEndingB
+position: 29,813
+---
+Ray gun sends to future world.
+<<jump FutureWorld>>
+
+===
+
+
+
+
+
+
+title: SplitLoneliness
+position: 276,1243
+---
+<<scene SplitLoneliness>>
+<<wait 2>>
+Officially removed from anything resembling the gravity of earth, I now drift about aimlessly through the void of space.
+It seems I am back where I started yet I feel I’ve gained insight.
+Nonetheless, the emptiness is starting to get to me.
+
+Off in the distance I finally see something.
+I paddle towards it.
+What little atmosphere exists around me pushes me toward my destination.
+I keep moving closer to get a better look.
+
+<<activate "BodyBottom" true>>
+I think I see another person. Something looks strange though.
+I move closer to complete my view.
+
+<<activate "BodyTop" true>>
+Fully in view, the man appears to be completely split in two at the waist.
+
+Lonely Guy: A Person!
+Lonely Guy: Come closer! I’ve waited so long for this. You can’t imagine the loneliness I’ve felt.
+
+Player: Are you okay!?
+
+Lonely Guy: Do I look okay?
+Lonely Guy: I’ve been out here for years.
+Lonely Guy: I tried to live my life for myself. To 
+Lonely Guy: I wanted Isolation so I found it.
+
+
+Lonely Guy: The human body is resilient, it adapts to its circumstances.
+Lonely Guy: Like a cell dividing my body split in two to give me company.
+Lonely Guy: The sick joke is that I was split horizontally not vertically.
+Lonely Guy: How is a pair of legs going to help me.
+Lonely Guy: But I do admit, in my more desperate nights, the presence of the legs provides a comforting partnership.
+
+Player: Maybe you’ll get lucky and split again. This time down the middle.
+
+
+Lonely Guy: A famous man once said, “hell is other people”.
+Lonely Guy: I have learned that he is wrong. Hell is just the self.
+
+
+	-> Float on
+	<<jump BlackHole>>
+===
+
+
+
+
+
+
+title: BlackHole
+position: 264,1682
+---
+<<scene BlackHole>>
+<<wait 2>>
+I continue my journey through the vast void of space.
+The emptiness of my surroundings gives me time to reflect on my troubles and how small they now seem. The friends I’ve met have given me perspective.
+I’m starting to feel like I’ll be able to sleep pretty soon. If only I can find my way back home.
+
+All of a sudden, I realize that I am moving a lot faster than before.
+I look around to spot in the distance a massive dark entity.
+
+<<activate "Mouth" true>>
+<<activate "Eyes" true>>
+Black Hole: Nom, nom, nom, nom.
+The black hole I have found myself if the path of is sucking in asteroids and space debris gleefully and messily, secreting mouth noises with every bite.
+
+I think fast and hope that maybe I can bargain with it.
+Player: Hello. Hello Mr. Black Hole.
+Black Hole: Meat! Nom, nom, nom, nom.
+The cavernous being smacks its lips and begins sucking with greater force.
+My movement steadily grows in speed and my space paddling is rendered mute. I drift closer and closer towards the black hole.
+
+Player:  I really don’t think I am that tasty Mr. Black Hole. 
+Black Hole: Finally, I’ve traveled for light years without any meat.
+Player: I am tiny compared to your great mouth and you will barely taste me. Is a crumb worth my life?
+Black Hole: I’ve been searching for space debris and eating all that I can in hopes of finding something like you. Meat.
+Black Hole: It’s a breadcrumb trail that I know will lead me to a planet full of beings like you.
+Black Hole: Your presence means I’m close to the source. I will have my feast.
+
+My bargaining is hopeless and its already too late.
+As I enter the all-consuming mouth of the beast, I feel my body warping and my will decaying.
+There is no hope left for me and all I can think of is that I am finally tired but this is not the sleep I wanted.
+I close my eyes and prepare for my dark fate.
+
+<<jump TangentSpace>>
+
+===
+
+
+
+
+
+
+
+title: TangentSpace
+position: -227,2033
+---
+<<scene TangentSpace>>
+<<wait 2>>
+
+Tangent Orb: Dimensionality itself is an illusion caused by the consciousness’s need to objectify the world to make sense of it.
+<<activate "TangentOrb" true>>
+
+Tangent Orb: There is a you for every path in life happening all at once.
+
+Player: Does that mean right now I’m Still in my bed at home?
+<<fade_out "TangentOrb">>
+
+<<jump Ending>>
+
+===
+
+
+
+
+
+
+
+title: Particle
+position: -621,676
+---
+<<scene Particle>>
+<<wait 2>>
+
+test
+
+<<activate "Particle" true>>
+activate
+
+<<scale_particle 1>>
+scale to one
+
+<<scale_particle 2>>
+scale to two
+
+<<scale_particle 3>>
+scale to three
+
+Nothing.
+There is nothing but blackness all around me.
+Am I dead?
+I know I’m not sleeping.
+
+I focus what’s left of my consciousness to try to discover where I am.
+I can’t see my own body but with effort I start to feel something.
+Eventually I catch a glimpse of something.
+A spec.
+
+<<activate "Particle" true>>
+Amidst the oppressive nothingness of my situation, I watch the spec as it is my only stimulus.
+To my surprise the spec wiggles and swells and it starts to grow.
+It grows into an indescribable organism of energy. 
+
+* Particle grows
+Player: Am I dead?
+Particle: Dead? You 
+Particle: Death is not possible in this entropic world of energy. 
+Particle: Your ability to see yourself as an object is a flaw of perception.
+
+Player: What are you?
+Particle: I am a sub-atomic particle.
+Particle: When you fell to earth your consciousness was reduced to this level.
+
+- am I stuck here
+- no potential for anything
+
+	-> Ant
+	<<jump ParticleEndingA>>
+	-> Future World
+	<<jump ParticleEndingB>>
+
+
+===
+
+title: ParticleEndingA
+position: -742,843
+---
+Regain consciousness on the ground
+<<jump Ant>>
+
+===
+title: ParticleEndingB
+position: -501,836
+---
+Grow back into the world
+<<jump FutureWorld>>
+===
+
+
+
+
+
+
+title: Ant
+position: -754,1239
+---
+<<scene Ant>>
+<<wait 2>>
+-	Regain consciousness
+-	Talk to ant
+-	Touch antennas 
+<<jump NeuronWar>>
+
+===
+
+
+
+
+
+
+
+title: FutureWorld
+position: -237,1117
+---
+<<scene FutureWorld>>
+<<wait 2>>
+
+<<activate "SolarCubes" true>>
+<<fade_out "SolarCubes">>
+
+* Wake up
+* Observe the open water
+
+
+Surfer: Oi!
+A man lounging on a surfboard perks up and calls out to me as he paddles nearer.
+
+Player: You’re not concerned that someone appeared here in the future?
+Surfer: Nah, its just something that happens here from time to time.
+Surfer: I thought I’d paddle over and make sure you had a warm introduction.
+Surfer: I know it can be a lot to handle at first.
+
+Player: Which Ocean are we even at?
+Surfer: distinctions like that aren’t really useful anymore.
+Surfer: We’re not just in AN ocean, were in THE ocean.
+Surfer: To be more exact, we’re in Ohio USA right now.
+Player: * oh no!
+
+Surfer: The whole world is like this now.
+Surfer: All of the polar icecaps have long since been melted by global warming.
+Player: So the world is all water now. A water world!
+Player: In this post-apocalyptic world are there sea pirates at war over resources and oil?
+Surfer: Oil? Does this board look like it needs oil to shred sick gnar?
+Surfer: This is a post scarcity world where there is nothing to fight over.
+Surfer: All work has been automated.
+
+Player: I can hardly sleep at night thinking about the weight of the future and current events.
+Surfer: Billions have died to get here but now we shred gnar in their memory.
+Surfer: Though humans can be violent and wage war against each other, they also-
+Surfer: Conflict is part of the natural progression of history that has brought us here.
+
+Surfer: Humanity invented solar cubes
+Surfer: Everyone is high on life and content drifting at sea.
+
+Player: I’m drifting through life.
+Surfer: Drifting is all we do now.
+
+Surfer: If your so stressed over sleeping you should eat solar cubes or get some art therapy.
+	-> Neurons
+	<<jump FutureWorldEndingA>>
+	-> Art Robots
+	<<jump FutureWorldEndingB>>
+===
+
+title: FutureWorldEndingA
+position: -342,1304
+---
+Eats Solar Cubes
+<<jump NeuronWar>>
+
+===
+
+title: FutureWorldEndingB
+position: -114,1309
+---
+Swims on to factory
+<<jump ArtRobots>>
+
+===
+
+
+
+
+
+
+title: ArtRobots
+position: -222,1701
+---
+<<scene ArtRobots>>
+<<wait 2>>
+
+Swim to the factory
+Talk to robot
+Creativity is the point of life, nothing else matters
+Robot cuts off ear
+
+<<jump TangentSpace>>
+
+===
+
+
+
+
+
+title: NeuronWar
+position: -697,1692
+---
+<<scene Neurons>>
+<<wait 2>>
+
+Neuron: Fire!
+The neurons light up in a fury and energy violently pulses out from their bodies.
+Amongst the chaos I try to grab someone’s attention.
+Player: um, Excuse me.
+Neuron: Fire!
+Player: Excuse me!
+Neuron: 
+Player: Where am I?
+Neuron: You are inside your own head.
+
+
+Neuron: A battle zone is no place for sleeping.
+Neuron: If you want to sleep, you’ll have to get out of your own head.
+
+Neuron: This is what your mind looks like when your trying to sleep. It’s a bloody war of attrition.
+Neuron: It’s like this every night because of you.
+
+<<jump TangentSpace>>
+
+
+===
+
+
+
+
+
+title: Ending
+position: -218,2452
+---
+<<scene Home>>
+<<wait 2>>
+
+Think about negentropy.
+Go to sleep.
+
+===
+
+

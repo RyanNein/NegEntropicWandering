@@ -1,0 +1,57 @@
+﻿title: Start
+tags:
+---
+
+<<scene NameEntry>>
+
+
+
+this is a ' test
+thi si not a ' row’s
+this is "apos"
+this is not “apos”
+
+I go outside, but what do I do then?
+-> Something
+	Searching for something 
+	I get out of bed and walk around at night, aimlessly in search of a nothingness that I once had. Something or someone that can tame the mind and put me to sleep.
+	The therapy of nothingness became a minefield of somethings as I grew up and everything got heavier. The question of what to do tomorrow and the reflection of what I did today keeps me up and unready for the paths ahead. 
+	Each path is an endless dead-end I find myself halfway down in both directions.
+-> Nothing
+	Nothing 
+
+
+this is the name entry page
+
+<<declare $player_name to "">>
+
+<<select_field NameInput>>
+select text field
+
+the name is {$player_name}
+<<save "Start">>
+
+{$player_name}: this is a test of the name
+
+
+<<voice false>>
+page_name: this is the first node.
+
+<<image "a hungry black hole eats the world">>
+Test: this is a test, okay.
+and this is more testing
+	-> Pick Up the Phone
+		<<image "tangent waves rip through space">>
+		Picked up the phone
+	-> Don't Pick Up the Phone
+		<<image "looking out at the stars as the universe drifts away">>
+		did not pick up the phone
+
+Player: Mom, you know the freckle next to my lip?
+
+<<scene "ShaderTest">>
+Mom: What freckle?
+<<camera_shake 1 0.1>>
+Shake!
+
+===
